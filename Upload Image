@@ -1,0 +1,7 @@
+git clone https://github.com/AchyutGosavi/MyPersonal.git
+cd MyPersonal 
+mkdir images
+cp C:/Users/achyutg/Downloads /images
+git add .
+git commit -m "Add image to repository"
+git push origin main
